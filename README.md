@@ -1,5 +1,5 @@
 # AI-Button-Remap-for-Xiaomi-Mi-9
-A KernelSU module to change the AI button function.
+A KernelSU module to change the AI button function on the Xiaomi Mi 9.
 ###
 ##
 #
