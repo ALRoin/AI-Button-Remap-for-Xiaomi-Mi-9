@@ -31,9 +31,9 @@ Available Functions
 ### Recommended Configuration
 
 > **Recommendation for Google Assistant:**
-> I highly recommend setting your button to **Play/Pause Media (`MEDIA_PLAY_PAUSE`)**.
+>If you want to use it for Google Assistant, I highly recommend setting your button to **Play/Pause Media (`MEDIA_PLAY_PAUSE`)**.
 > * **Single press:** Plays/Pauses media.
 > * **Long press:** Opens Google Assistant.
 > 
 > 
-> This configuration prevents accidental interruptions during gameplay; if the button is pressed by mistake, it will only Plays/Pauses your background media without triggering the assistant.
+> This configuration prevents accidental interruptions during gameplay, if the button is pressed by mistake, it will only Plays/Pauses your background media without triggering the assistant.
