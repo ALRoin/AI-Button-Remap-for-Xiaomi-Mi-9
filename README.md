@@ -3,13 +3,8 @@ A KernelSU module to change the AI button function.
 ###
 ##
 #
-To make your `README.md` look professional and easy to read, I recommend using a **Markdown table** for the list of functions and a **blockquote** for your recommendation.
 
-Here is the formatted version you can copy and paste:
-
----
-
-## Available Functions
+Available Functions
 
 | Function Name | Code |
 | --- | --- |
@@ -41,4 +36,4 @@ Here is the formatted version you can copy and paste:
 > * **Long press:** Opens Google Assistant.
 > 
 > 
-> This configuration prevents accidental interruptions during gameplay; if the button is pressed by mistake, it will only toggle your background media without triggering the assistant.
+> This configuration prevents accidental interruptions during gameplay; if the button is pressed by mistake, it will only Plays/Pauses your background media without triggering the assistant.
