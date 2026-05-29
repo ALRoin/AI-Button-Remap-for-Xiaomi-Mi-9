@@ -4,3 +4,4 @@ version=1
 versionCode=1
 author=Roz
 description=Remap the AI button
+updateJson=https://github.com/ALRoin/AI-Button-Remap-for-Xiaomi-Mi-9/blob/main/update.json
