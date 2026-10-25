@@ -1,6 +1,8 @@
 # AI Button Remap for Xiaomi Mi 9
 A KernelSU module to change the AI button function on the Xiaomi Mi 9.
-### Important: You need to install the [Mountify module](https://github.com/backslashxx/mountify) to make the remap button work.
+
+> [!IMPORTANT]
+> You need to install the [Mountify module](https://github.com/backslashxx/mountify) to make the remap button work.
 
 ###
 ##
@@ -30,8 +32,7 @@ Available Functions
 
 ---
 
-### Recommended Configuration
-
+> [!TIP]
 > **Recommendation for Google Assistant:**
 >If you want to use it for Google Assistant, I highly recommend setting your button to **Play/Pause Media (`MEDIA_PLAY_PAUSE`)**.
 > * **Single press:** Plays/Pauses media.
